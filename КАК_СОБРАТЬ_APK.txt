@@ -1,0 +1,16 @@
+JARVIS Android v0.1 — сборка без Android Studio
+
+1. Открой репозиторий jarvis-android на GitHub с компьютера.
+2. Нажми Add file -> Upload files.
+3. Перетащи ВСЁ содержимое этой папки, включая скрытую папку .github.
+4. Нажми Commit changes.
+5. Открой вкладку Actions и выбери Build JARVIS APK.
+6. Дождись зелёной галочки.
+7. Внизу страницы сборки скачай Artifacts -> JARVIS-v0.1-apk.
+8. В архиве будет JARVIS-v0.1.apk.
+
+Приложение подключается к:
+http://192.168.1.164:8765/chat
+Токен: jarvis-local
+
+Телефон и компьютер должны быть в одной Wi-Fi сети, а JARVIS Server и Ollama должны быть запущены.
